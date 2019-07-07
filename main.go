@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/mp-singh/base64/Encode"
+	"github.com/mp-singh/base64Encode/Encode"
 	"os"
 )
 
